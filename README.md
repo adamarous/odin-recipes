@@ -4,7 +4,7 @@ From The Odin Project.
 
 ## Description
 
-
+A set of 3 recipes from Allrecipes with vaguely listed ingredients and the steps to reproduce the dish.
 
 ## Showcased skills
 
